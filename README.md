@@ -5,7 +5,7 @@
 
 **Quick facts:
 
-- 🔭 I’m currently working on ... 
+- 🔭 I’m currently working on ... desktop / android apps
 - 🌱 I’m currently learning ... machine learning
 - 👯 I’m looking to collaborate on ... software engineering, artificial intelligence
 - 🤔 I’m looking for help with ... networking 😊 and neural networks
