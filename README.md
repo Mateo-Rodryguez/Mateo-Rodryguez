@@ -3,7 +3,7 @@
 
 **Mateo-Rodryguez/Mateo-Rodryguez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on my GitHub profile.
 
-**Quick facts:
+**Quick facts:**
 
 - 🔭 I’m currently working on ... desktop / android apps
 - 🌱 I’m currently learning ... machine learning
